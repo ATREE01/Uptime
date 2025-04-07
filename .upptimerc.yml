@@ -2,6 +2,9 @@
 owner: atree01 # Your GitHub organization or username, where this repository lives
 repo: Uptime # The name of this repository
 
+assignees:
+   - ATREE01
+   
 sites:
   - name: Finance Manager
     url: https://financemanager.ddns.net
