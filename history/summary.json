@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/financemanager.ddns.net.ico",
     "slug": "finance-manager",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.85%",
-    "time": 719,
-    "timeDay": 592,
-    "timeWeek": 703,
-    "timeMonth": 718,
-    "timeYear": 719,
+    "uptimeYear": "99.86%",
+    "time": 716,
+    "timeDay": 597,
+    "timeWeek": 680,
+    "timeMonth": 712,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-04-16": 71
     }
