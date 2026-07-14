@@ -4,17 +4,17 @@
     "url": "https://financemanager.shihubs.com",
     "icon": "https://icons.duckduckgo.com/ip3/financemanager.shihubs.com.ico",
     "slug": "finance-manager",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.64%",
-    "time": 1142,
-    "timeDay": 10180,
-    "timeWeek": 3088,
-    "timeMonth": 1324,
-    "timeYear": 1255,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "98.63%",
+    "time": 1141,
+    "timeDay": 6991,
+    "timeWeek": 2813,
+    "timeMonth": 1301,
+    "timeYear": 1253,
     "dailyMinutesDown": {
       "2025-07-19": 590,
       "2025-07-18": 608,
@@ -34,7 +34,7 @@
       "2026-04-30": 86,
       "2026-06-14": 616,
       "2026-06-13": 370,
-      "2026-07-14": 0
+      "2026-07-14": 62
     }
   }
 ]
